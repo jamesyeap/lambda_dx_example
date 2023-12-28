@@ -1,0 +1,7 @@
+go 1.21.5
+
+use (
+	.
+	lambda_functions/lambda_function_1
+	lambda_functions/lambda_function_2
+)
